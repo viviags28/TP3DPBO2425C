@@ -136,7 +136,7 @@ Program ini menggunakan konsep OOP:
 
 # Dokumentasi C++
 
-<img width="823" height="653" alt="1  hasil cpp" src="https://github.com/user-attachments/assets/971411c6-3b34-4cde-ac67-66bed1a68fab" />
+<img width="692" height="679" alt="2  hasil cpp" src="https://github.com/user-attachments/assets/3e118208-03fa-4013-bc95-261f5df43822" />
 
 <img width="823" height="653" alt="1  hasil cpp" src="https://github.com/user-attachments/assets/a1867870-32da-4e5e-83f9-5085ff688ca4" />
 
