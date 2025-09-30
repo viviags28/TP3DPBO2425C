@@ -1,4 +1,3 @@
-# main.py
 from Kostum import Kostum
 from Aksesoris import Aksesoris
 from Pelanggan import Pelanggan
